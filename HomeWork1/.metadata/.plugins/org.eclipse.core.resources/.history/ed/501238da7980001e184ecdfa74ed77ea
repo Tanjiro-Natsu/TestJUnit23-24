@@ -1,0 +1,14 @@
+package io;
+
+import java.util.Scanner;
+
+public class CifraturaMonoAlfabetica {
+public static void main (String [] args ) {
+	
+	String cifrare;
+	System.out.println("Inserire una frase che si vuole criptare con la cifratura mono alfabetica");
+	Scanner a=new Scanner (System.in);
+	cifrare=a.nextLine();
+	System.out.println(cifrare);
+}
+}

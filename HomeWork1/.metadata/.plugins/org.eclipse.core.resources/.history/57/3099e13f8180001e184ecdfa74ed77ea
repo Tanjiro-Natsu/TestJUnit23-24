@@ -1,0 +1,17 @@
+package io;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class TestCifraturaMonoAlfabetica {
+
+	@Test
+	public void test() {
+		assertTrue(CifraturaMonoAlfabetica.createrandom()>1 && CifraturaMonoAlfabetica.createrandom()<12);
+	}
+	public void test1() {
+		int random=(int)(((Math.random()*100)+1)/4);
+	}
+
+}

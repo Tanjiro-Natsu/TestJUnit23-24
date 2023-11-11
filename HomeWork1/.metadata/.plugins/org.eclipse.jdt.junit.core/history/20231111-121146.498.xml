@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestCifraturaMonoAlfabetica" project="HomeWork1" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="io.TestCifraturaMonoAlfabetica" time="0.034" displayname="TestCifraturaMonoAlfabetica" uniqueid="[engine:junit-jupiter]/[class:io.TestCifraturaMonoAlfabetica]">
+    <testcase name="test" classname="io.TestCifraturaMonoAlfabetica" time="0.028" displayname="test()" uniqueid="[engine:junit-jupiter]/[class:io.TestCifraturaMonoAlfabetica]/[method:test()]"/>
+    <testcase name="test1" classname="io.TestCifraturaMonoAlfabetica" time="0.002" displayname="test1()" uniqueid="[engine:junit-jupiter]/[class:io.TestCifraturaMonoAlfabetica]/[method:test1()]"/>
+  </testsuite>
+</testrun>

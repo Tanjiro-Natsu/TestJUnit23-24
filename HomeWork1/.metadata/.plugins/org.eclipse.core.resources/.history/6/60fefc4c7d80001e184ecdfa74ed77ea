@@ -1,0 +1,45 @@
+package io;
+
+import java.util.Scanner;
+
+public class CifraturaMonoAlfabetica {
+	private static int random;
+	public int getrandom() {return random;}
+public static void main (String [] args ) {
+	
+	String cifrare;
+	String criptata=null;
+	System.out.println("Inserire una frase che si vuole criptare con la cifratura mono alfabetica");
+	Scanner a=new Scanner (System.in);
+	cifrare=a.nextLine();
+	random=(int)(Math.random()*10);
+	System.out.println(random);
+	cifrare=cifrare.toLowerCase();
+	int t=cifrare.length();
+	
+	for(int i=0;i<t;i++) {
+		int codiceAscii=(int)(cifrare.charAt(i));
+		if(i==0) {
+			criptata=cifraturaMonoAlfabetica(codiceAscii);
+		}
+		else {
+	criptata=criptata+cifraturaMonoAlfabetica(codiceAscii);}
+	}
+	System.out.println(criptata);
+}
+public static String cifraturaMonoAlfabetica(int valore,int chiave ) {
+	String cifrata = null;
+	int y=0;
+	if (valore==32) {
+		cifrata=" ";
+		y=1;
+	}
+	if(y!=1) {
+		
+	}
+
+	
+	
+	return cifrata;
+}
+}
