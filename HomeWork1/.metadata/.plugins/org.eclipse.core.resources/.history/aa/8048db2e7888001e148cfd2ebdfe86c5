@@ -1,0 +1,14 @@
+package io;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class TestCifraturaMonoAlfabetica {
+
+@Test
+public void outputTestCifraturaMonoAlfabetica() {
+	assertAll(){
+	assertTrue(CifraturaMonoAlfabetica.cifraturaMonoAlfabetica(97, 3).equals("d"))}
+}
+}
