@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="org.junit.jupiter.api.Assertions"/>
     <fullyQualifiedTypeName name="org.junit.jupiter.api.DisplayName"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Assertions"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeEach"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Field"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Disabled"/>
+    <fullyQualifiedTypeName name="net.jqwik.api.Property"/>
+    <fullyQualifiedTypeName name="net.jqwik.api.ForAll"/>
+    <fullyQualifiedTypeName name="net.jqwik.api.constraints.IntRange"/>
+    <fullyQualifiedTypeName name="net.jqwik.api.statistics.StatisticsReport"/>
+    <fullyQualifiedTypeName name="net.jqwik.api.statistics.Histogram"/>
+    <fullyQualifiedTypeName name="java.math.RoundingMode"/>
+    <fullyQualifiedTypeName name="net.jqwik.api.statistics.Statistics"/>
 </qualifiedTypeNameHistroy>

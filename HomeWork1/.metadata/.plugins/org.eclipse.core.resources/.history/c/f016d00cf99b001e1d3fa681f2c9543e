@@ -1,0 +1,33 @@
+package io;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import java.math.RoundingMode;
+
+import org.junit.jupiter.api.BeforeEach;
+
+import net.jqwik.api.ForAll;
+import net.jqwik.api.Property;
+import net.jqwik.api.constraints.IntRange;
+import net.jqwik.api.statistics.Histogram;
+import net.jqwik.api.statistics.Statistics;
+import net.jqwik.api.statistics.StatisticsReport;
+
+class CifraturaMonoAlfabeticaPBTest {
+	CifraturaMonoAlfabetica s=null;
+	@BeforeEach
+	public void setCifraturaMonoAlfabetica() {
+		s=new CifraturaMonoAlfabetica();
+	}
+	
+	@StatisticsReport(format=Histogram.class)
+	void simpleStats(@ForAll RoundingMode mode) {
+		Statistics.collect(mode);
+	}
+	@Property
+	void cifraturaMonoAlfabeticaPbTestLiner(@ForAll @IntRange(min=0,max=61)int value,int key) {
+		assertTrue(CifraturaMonoAlfabetica.cifraturaMonoAlfabetica(value, key).equals(String.valueOf((char)(value+key))));
+		
+	}
+
+}
