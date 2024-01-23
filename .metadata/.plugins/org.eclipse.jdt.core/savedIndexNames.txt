@@ -1,0 +1,12 @@
+INDEX VERSION 1.131+C:\Users\Marco\Desktop\CasoStudioTest1\.metadata\.plugins\org.eclipse.jdt.core
+1856374056.index
+848336317.index
+4155462802.index
+1396912866.index
+2461479885.index
+2150670358.index
+1172214929.index
+2590480182.index
+958395289.index
+1865797976.index
+2458009102.index

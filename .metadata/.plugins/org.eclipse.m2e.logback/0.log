@@ -1,0 +1,165 @@
+2024-01-23 22:30:36,328 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-01-23 22:32:05,911 [Worker-0: Creating project "HomeWork1"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Homework1:HomeWork1:0.0.1-SNAPSHOT @ C:\Users\Marco\Desktop\CasoStudioTest1\HomeWork1\pom.xml.
+2024-01-23 22:32:06,868 [Worker-0: Creating project "HomeWork1"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HomeWork1/src/main/java
+2024-01-23 22:32:06,871 [Worker-0: Creating project "HomeWork1"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HomeWork1/src/main/resources
+2024-01-23 22:32:06,878 [Worker-0: Creating project "HomeWork1"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HomeWork1/src/test/java
+2024-01-23 22:32:06,880 [Worker-0: Creating project "HomeWork1"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HomeWork1/src/test/resources
+2024-01-23 22:32:06,944 [Worker-0: Creating project "HomeWork1"] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'J2SE-1.5', falling back to workspace default
+2024-01-23 22:32:08,411 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:32:08,422 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:32:08,434 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:32:08,436 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:32:46,432 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:32:46,448 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:32:46,458 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:32:46,460 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:33:32,797 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:33:32,798 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:33:32,802 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:33:32,804 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:34:48,737 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:34:48,740 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:34:48,751 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:34:48,753 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:35:57,010 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:35:57,012 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:35:57,028 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:35:57,030 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:36:32,384 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:36:32,386 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:36:32,390 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:36:32,392 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:37:16,353 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:37:16,357 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:37:16,365 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:37:16,369 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:37:30,567 [Worker-2: Launching TestCifraturaMonoAlfabetica] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:37:30,569 [Worker-2: Launching TestCifraturaMonoAlfabetica] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:37:30,578 [Worker-2: Launching TestCifraturaMonoAlfabetica] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:37:30,586 [Worker-2: Launching TestCifraturaMonoAlfabetica] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:38:35,127 [Worker-2: Creating project "HomeWork2"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: HomeWork2:HomeWork2:0.0.1-SNAPSHOT @ C:\Users\Marco\Desktop\CasoStudioTest1\HomeWork2\pom.xml.
+2024-01-23 22:38:35,198 [Worker-2: Creating project "HomeWork2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HomeWork2/src/main/java
+2024-01-23 22:38:35,199 [Worker-2: Creating project "HomeWork2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HomeWork2/src/main/resources
+2024-01-23 22:38:35,200 [Worker-2: Creating project "HomeWork2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HomeWork2/src/test/java
+2024-01-23 22:38:35,200 [Worker-2: Creating project "HomeWork2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HomeWork2/src/test/resources
+2024-01-23 22:38:35,201 [Worker-2: Creating project "HomeWork2"] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'J2SE-1.5', falling back to workspace default
+2024-01-23 22:38:35,643 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:38:35,645 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:38:35,652 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:38:35,656 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:38:59,235 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:38:59,237 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:38:59,243 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:38:59,244 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:40:14,243 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:40:14,246 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:40:14,250 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:40:14,251 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:40:22,562 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:40:22,565 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:40:22,571 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:40:22,572 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:40:45,683 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:40:45,688 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:40:45,691 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:40:45,691 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:42:35,192 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:42:35,196 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:42:35,223 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:42:35,225 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:45:37,312 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:45:37,315 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:45:37,318 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:45:37,321 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:46:04,037 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:46:04,039 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:46:04,042 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:46:04,044 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:46:33,312 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:46:33,314 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:46:33,318 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:46:33,320 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:47:08,580 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:47:08,582 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:47:08,585 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:47:08,587 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:49:08,576 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:49:08,578 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:49:08,582 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:49:08,585 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:51:56,151 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-01-23 22:51:59,731 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [267])
+2024-01-23 22:51:59,773 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2024-01-23 22:51:59,774 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\aether-connector-okhttp-0.17.8.jar
+2024-01-23 22:51:59,775 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-cli-1.4.jar
+2024-01-23 22:51:59,776 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-io-2.6.jar
+2024-01-23 22:51:59,780 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-lang3-3.8.1.jar
+2024-01-23 22:51:59,781 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\guice-4.2.2-no_aop.jar
+2024-01-23 22:51:59,782 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\jansi-2.4.0.jar
+2024-01-23 22:51:59,783 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-artifact-3.8.6.jar
+2024-01-23 22:51:59,783 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-builder-support-3.8.6.jar
+2024-01-23 22:51:59,784 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-compat-3.8.6.jar
+2024-01-23 22:51:59,785 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-core-3.8.6.jar
+2024-01-23 22:51:59,785 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-embedder-3.8.6.jar
+2024-01-23 22:51:59,786 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-3.8.6.jar
+2024-01-23 22:51:59,788 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-builder-3.8.6.jar
+2024-01-23 22:51:59,788 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-plugin-api-3.8.6.jar
+2024-01-23 22:51:59,790 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-repository-metadata-3.8.6.jar
+2024-01-23 22:51:59,791 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-api-1.6.3.jar
+2024-01-23 22:51:59,791 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-connector-basic-1.6.3.jar
+2024-01-23 22:51:59,792 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-impl-1.6.3.jar
+2024-01-23 22:51:59,792 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-provider-3.8.6.jar
+2024-01-23 22:51:59,793 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-spi-1.6.3.jar
+2024-01-23 22:51:59,796 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-transport-wagon-1.6.3.jar
+2024-01-23 22:51:59,798 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-util-1.6.3.jar
+2024-01-23 22:51:59,799 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-3.8.6.jar
+2024-01-23 22:51:59,799 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-builder-3.8.6.jar
+2024-01-23 22:51:59,800 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-shared-utils-3.3.4.jar
+2024-01-23 22:51:59,800 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okhttp-3.14.1.jar
+2024-01-23 22:51:59,801 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okio-1.17.3.jar
+2024-01-23 22:51:59,801 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.inject-0.3.5.jar
+2024-01-23 22:51:59,802 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2024-01-23 22:51:59,802 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-build-api-0.0.7.jar
+2024-01-23 22:51:59,803 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-cipher-2.0.jar
+2024-01-23 22:51:59,803 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-classworlds-2.6.0.jar
+2024-01-23 22:51:59,804 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-component-annotations-2.1.0.jar
+2024-01-23 22:51:59,804 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-interpolation-1.26.jar
+2024-01-23 22:51:59,805 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-sec-dispatcher-2.0.jar
+2024-01-23 22:51:59,808 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-utils-3.3.1.jar
+2024-01-23 22:51:59,809 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-file-3.5.1.jar
+2024-01-23 22:51:59,812 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-provider-api-3.5.1.jar
+2024-01-23 22:51:59,818 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [8])
+2024-01-23 22:51:59,823 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\com.google.guava_30.1.0.v20221112-0806.jar
+2024-01-23 22:51:59,823 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [431])
+2024-01-23 22:51:59,826 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\slf4j.api_1.7.36.jar
+2024-01-23 22:51:59,829 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [18])
+2024-01-23 22:51:59,834 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2024-01-23 22:51:59,834 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [16])
+2024-01-23 22:51:59,839 [Worker-2: Launching HomeWork2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Marco\.p2\pool\plugins\javax.annotation_1.3.5.v20221112-0806.jar
+2024-01-23 22:51:59,849 [Worker-2: Launching HomeWork2 (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Marco\Desktop\CasoStudioTest1\HomeWork2":
+2024-01-23 22:51:59,850 [Worker-2: Launching HomeWork2 (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always 
+2024-01-23 22:52:18,610 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-01-23 22:52:24,647 [Worker-2: Launching HomeWork2 (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Marco\Desktop\CasoStudioTest1\HomeWork2":
+2024-01-23 22:52:24,648 [Worker-2: Launching HomeWork2 (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always 
+2024-01-23 22:52:50,189 [Worker-24: Launching Executing test in C__Users_Marco_Desktop_CasoStudioTest1_HomeWork2] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Marco\Desktop\CasoStudioTest1\HomeWork2":
+2024-01-23 22:52:50,190 [Worker-24: Launching Executing test in C__Users_Marco_Desktop_CasoStudioTest1_HomeWork2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always test
+2024-01-23 22:52:54,437 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:52:54,439 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:52:54,444 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:52:54,447 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:53:28,131 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:53:28,133 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:53:28,138 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:53:28,140 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:54:08,680 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:54:08,682 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:54:08,685 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:54:08,688 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-23 22:54:26,790 [Worker-18: Launching HomeWork2 (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Marco\Desktop\CasoStudioTest1\HomeWork2":
+2024-01-23 22:54:26,791 [Worker-18: Launching HomeWork2 (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always 
+2024-01-23 22:55:01,202 [Worker-2: Launching HomeWork2 (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Marco\Desktop\CasoStudioTest1\HomeWork2":
+2024-01-23 22:55:01,203 [Worker-2: Launching HomeWork2 (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always 1
+2024-01-23 22:55:26,836 [Worker-23: Launching HomeWork2 (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Marco\Desktop\CasoStudioTest1\HomeWork2":
+2024-01-23 22:55:26,838 [Worker-23: Launching HomeWork2 (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always 1
+2024-01-23 22:56:51,519 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-23 22:56:51,523 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

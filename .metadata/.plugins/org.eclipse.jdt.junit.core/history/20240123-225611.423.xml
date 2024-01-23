@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="HomeWork2" project="HomeWork2" tests="3" started="3" failures="0" errors="0" ignored="3">
+  <testsuite name="CifraturaMonoAlfabeticaPBTest" time="0.0" uniqueid="[engine:jqwik]/[class:CifraturaMonoAlfabeticaPBTest]">
+    <testcase name="cifraturaPBTest" classname="CifraturaMonoAlfabeticaPBTest" time="0.0" ignored="true" displayname="cifraturaPBTest" parameters="java.lang.String" uniqueid="[engine:jqwik]/[class:CifraturaMonoAlfabeticaPBTest]/[property:cifraturaPBTest(java.lang.String)]"/>
+    <testcase name="cifraturaMonoAlfabeticaPbTestOutOfBound" classname="CifraturaMonoAlfabeticaPBTest" time="0.0" ignored="true" displayname="cifraturaMonoAlfabeticaPbTestOutOfBound" parameters="int,int" uniqueid="[engine:jqwik]/[class:CifraturaMonoAlfabeticaPBTest]/[property:cifraturaMonoAlfabeticaPbTestOutOfBound(int, int)]"/>
+    <testcase name="cifraturaMonoAlfabeticaPbTest" classname="CifraturaMonoAlfabeticaPBTest" time="0.0" ignored="true" displayname="cifraturaMonoAlfabeticaPbTest" parameters="int,int" uniqueid="[engine:jqwik]/[class:CifraturaMonoAlfabeticaPBTest]/[property:cifraturaMonoAlfabeticaPbTest(int, int)]"/>
+  </testsuite>
+</testrun>
